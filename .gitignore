@@ -1,0 +1,21 @@
+.env
+.venv
+# Environment variables
+DATABASE_URL=sqlite:///./test.db
+SECRET_KEY=your_secret_key_here
+DEBUG=True
+# Ignore Python bytecode files
+*.py[cod]
+*.pyc
+node_modules/
+# Ignore virtual environment directories
+.venv/
+venv/
+# Ignore log files
+*.log   
+# Ignore IDE/editor specific files
+.idea/  
+.vscode/
+*.swp
+# Ignore coverage reports
+coverage/
