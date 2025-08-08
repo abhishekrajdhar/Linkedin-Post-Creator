@@ -19,6 +19,6 @@ services:
       - key: PORT
         value: 10001
       - key: BACKEND_URL
-        value: https://linkedin-backend.onrender.com
+        value: https://linkedinpost-2mx5.onrender.com/
     autoDeploy: true
     rootDir: frontend
