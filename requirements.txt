@@ -1,6 +1,9 @@
 fastapi
 uvicorn
 langchain
-google 
+google-generativeai
+google-api-python-client
+google-auth
+requests
 pydantic
 python-dotenv
